@@ -20,12 +20,12 @@
 
 # example for tuple unpacking
 
-def student():
-    return "akarsh" , 20, "akarsh@gmail.com"
+# def student():
+#     return "akarsh" , 20, "akarsh@gmail.com"
 
-print(student())
-print(type(student()))
-name, age, email = student()
-print(name)
-print(age)
-print(email)
+# print(student())
+# print(type(student()))
+# name, age, email = student()
+# print(name)
+# print(age)
+# print(email)

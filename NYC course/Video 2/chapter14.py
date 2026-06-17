@@ -25,32 +25,33 @@
 
 # imp function of sets
 
-s1 = {1, 2, 3, 4, 5}
-s2 = {4, 5, 6, 7, 8}
-s3 = {4, 5}
+# s1 = {1, 2, 3, 4, 5}
+# s2 = {4, 5, 6, 7, 8}
+# s3 = {4, 5}
 
 
-print(s2 - s1)
-#or
-print(s1.difference(s2))
+# print(s2 - s1)
+# #or
+# print(s1.difference(s2))
 
-print(s1 - s2)
-#or
-print(s2.difference(s1))
+# print(s1 - s2)
+# #or
+# print(s2.difference(s1))
 
-print(s1.intersection(s2))
-#or
-print(s1 & s2)
+# print(s1.intersection(s2))
+# #or
+# print(s1 & s2)
 
-print(s1.union(s2))
-#or
-print(s1 | s2)
+# print(s1.union(s2))
+# #or
+# print(s1 | s2)
 
-# is subset
-print(s3 <= s1)
+# # is subset
+# print(s3 <= s1)
 
-#is superset
-print(s1 >= s3)
+# #is superset
+# print(s1 >= s3)
 
+# = us used to update the set with the union of itself and another set
 # is symmetric difference -> gives the unique element in both sets
-print(s1 ^ s2)
+# print(s1 ^ s2)
