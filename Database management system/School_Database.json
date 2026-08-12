@@ -1,0 +1,53 @@
+{
+    "students": [
+        {
+            "name": "moksh",
+            "age": 18,
+            "gender": "M",
+            "email": "moksh1@ris.com",
+            "student_id": "0001",
+            "grades": [
+                95,
+                85,
+                97,
+                99,
+                100
+            ]
+        },
+        {
+            "name": "shridhar",
+            "age": 18,
+            "gender": "M",
+            "email": "shridhar0002@ris.com",
+            "student_id": "0002",
+            "grades": {}
+        },
+        {
+            "name": "jagriti",
+            "age": 17,
+            "gender": "F",
+            "email": "jagriti0003@ris.com",
+            "student_id": "0003",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Swati",
+            "age": 34,
+            "gender": "F",
+            "email": "swati@ris.com",
+            "teacher_id": "0001"
+        },
+        {
+            "name": "rajwant singh",
+            "age": 28,
+            "gender": "M",
+            "email": "rajwantsingh@ris.com",
+            "teacher_id": "T2",
+            "subjects": [
+                "Physics"
+            ]
+        }
+    ]
+}
